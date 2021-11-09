@@ -1,9 +1,19 @@
-##Makefile for Project 2: Unix Shell, Jace Huddock
+## MAKEFILE for Project 3: Jace Huddock
 
-all: wish
+all: dataOneHundred freeThenPrint funnyValue mallocError myVector null 
 
 clean:
-	rm -f wish
-wish:
-	gcc wish.c -Wall -Werror
+	rm -f dataOneHundred freeThenPrint funnyValue mallocError myVector null
+dataOneHundred: dataOneHundred.c
+	gcc -o  data dataOneHundred.c -Wall -Werror
+freeThenPrint:
+	gcc -o free freeThenPrint.c -Wall -Werror
+mallocError:
+	gcc -o malloc mallocError.c -Wall -Werror	
+myVector:
+	gcc -o vect myVector.c -Wall -Werror 
+null: null.c
+	gcc -o null null.c -Wall -Werror
 
+
+	
