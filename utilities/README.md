@@ -1,4 +1,4 @@
-ICS-462: Project: Unix Utilities - Assignment 1
+# ICS-462: Project: Unix Utilities - Assignment 1
 Jace Huddock - Bl1248em@go.minnstate.edu
 
 This project includes the files wcat.c, wgrep.c, wzip.c and wunzip.c, and a Makefile as well as this README.
