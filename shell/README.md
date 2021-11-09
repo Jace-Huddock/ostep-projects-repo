@@ -1,4 +1,4 @@
-## README - ICS-462 Project 2: UNIX shell Jace Huddock
+# README - ICS-462 Project 2: UNIX shell Jace Huddock
 
 Simple UNIX shell implementation.
 
@@ -7,4 +7,4 @@ Simple UNIX shell implementation.
 
 "tests" folder contains a number of tests, as well as the output produced when put through this shell. 
 
- ##  test-wish.sh script not working ##
+
