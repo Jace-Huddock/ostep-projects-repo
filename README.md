@@ -9,4 +9,3 @@ This project is in connection to ICS-462: Operating Systems - A course taken at 
 
 # All files in this repository are the intellectual property of Jace Huddock
 
-This is a test
